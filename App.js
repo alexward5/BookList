@@ -3,7 +3,6 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Button, Container, Header, Content, Form, Item, Input } from 'native-base';
 import Login from './components/Login';
 import Account from './components/Account';
-import * as firebase from 'firebase';
 
 export default class App extends React.Component {
   
